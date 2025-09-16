@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true
+}
