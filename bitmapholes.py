@@ -66,6 +66,7 @@ class BitmapHoles:
         return count_of_zero
 
 bitmapHole = BitmapHoles(["10111", "10101", "11101", "11111"])
+# bitmapHole = BitmapHoles(['0000', '0000'])
 print (f"{bitmapHole.bitmap_holes()} holes found")
 
 
